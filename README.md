@@ -21,6 +21,12 @@ https://onlinemaps.surveyofindia.gov.in/Digital_Products.aspx?id=aUJENBZyfoy92gg
 India main rivers shapefiles:
 https://yashveeeeeeer.github.io/india-geodata/
 
+Technologies:
+-	Python     -GeoPandas    -QGIS     
+-	Pandas     -Matplotlib
+-	GeoPandas
+
+
 Workflow:
 
 ![](Figures/Workflow.png)
@@ -71,7 +77,7 @@ The process was then repeated for Nitrate, and the distribution plotted.
 ![](Figures/Mean_Nitrate_per_District.png)
 
 n.b. for the sake of time, no other analytes were analysed however this process could quickly be repeated 
-for all analytes of interest. The chloropleth mapping was just used as an exercise to demonstrate existing skills, and 
+for all analytes of interest. The choropleth mapping was just used as an exercise to demonstrate existing skills, and 
 at a very high-level allude to where contamination was prevalent. 
 
 Based on the two analytes plotted, the region of Nagarkurnool was selected 
@@ -105,7 +111,8 @@ could have been to use a html pop out of the graphs if viewing the map online.
 ![](Figures/Telangana_Nagarkurnool_Nitrate_WQ_Map.png)
 
 For reference, WHO Drinking Water Standards for Nitrate is 50 mg/L.
-Our dataset shows paramount examples of Nitrate contamination.
+Our dataset shows paramount examples of Nitrate contamination. Exceedances were 
+recorded in almost every location in Nagarkurnool at least once within the dataset. 
 
 Fluoride would be another key contaminant for analysis in further study.
 
@@ -130,3 +137,7 @@ a similar technique to Step 5.
 for the region/ identify key hydrogeological units.
 
 4b. Reclassification of groundwater bodies based on hydrochemical analysis.
+
+5. Use of machine learning methods to:
+   a. Reclassify groundwater bodies
+   b. Contamination risk mapping
