@@ -60,7 +60,7 @@ geodataframe (districts).
 
 Following that, a comparison was made between the district names of the district boundary polygon and district summary dataframes,
 to check for inconsistencies.
-Many inconsistencies with the nomenclature of the district names were identified, and subquent edits were made.
+Many inconsistencies with the nomenclature of the district names were identified, and subsequent edits were made.
 The district boundary summary dataframe and the district boundary polygon dataframe were then merged.
 
 The mean TDS (mg/L) per district was then plotted. The data was also presented using a barplot (not shown).
@@ -105,7 +105,7 @@ could have been to use a html pop out of the graphs if viewing the map online.
 ![](Figures/Telangana_Nagarkurnool_Nitrate_WQ_Map.png)
 
 For reference, WHO Drinking Water Standards for Nitrate is 50 mg/L.
-Our dataset, shows paramount examples of Nitrate contamination.
+Our dataset shows paramount examples of Nitrate contamination.
 
 Fluoride would be another key contaminant for analysis in further study.
 
