@@ -22,10 +22,11 @@ India main rivers shapefiles:
 https://yashveeeeeeer.github.io/india-geodata/
 
 Technologies:
--	Python     -GeoPandas    -QGIS     
--	Pandas     -Matplotlib
+-	Python        
+-	Pandas     
 -	GeoPandas
-
+-	Matplotlib
+-  QGIS 
 
 Workflow:
 
