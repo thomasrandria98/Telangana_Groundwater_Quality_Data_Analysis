@@ -1,8 +1,8 @@
-Telangana Water Quality Analysis
+Telangana Groundwater Quality Analysis
 ====================================================
 
 Project Scope:
-Analyse water quality datasets (2018 - 2020) from the Telangana district in India, to identify regions of the poorest groundwater
+Analyse groundwater quality datasets (2018 - 2020) from the Telangana district in India, to identify regions of the poorest groundwater
 quality. The focus of the project is to showcase programming skills in conjunction with existing spatial and 
 visulisation techniques and domain knowledge and use of AI tools to help refactor code into a reproducible output, however is not to present a thorough hydrochemical/hydrogeological 
 assessment. 
