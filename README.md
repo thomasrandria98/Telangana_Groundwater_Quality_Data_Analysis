@@ -35,12 +35,12 @@ Workflow:
 
 ## Step 1: Initial Data load and Cleaning
 ___
-_see cleaning.py_
+_see groundwater_analysis.ipynb and cleaning.py_
 
 The first step was to import the required libraries for the project, and then load the 3 datasets using
 pandas. 
 A quick inspection of the column names from the 3 datasets found many inconsistencies with the 
-nomenclature used, and therefore work was done to homogenize the column names. 
+nomenclature used, and therefore work was done to homogenize the column names. The initial work was completed in groundwater_analysis.ipynb, before refactoring the code into cleaning, analysis and visualization.py.
 
 
 
